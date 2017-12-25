@@ -5,6 +5,7 @@ html {
 .top {
   background-image: url("../image/backgroundthe-flatiron-building.png");
   color: white;
+  font-weight: bold;
 }
 .subtop {
   font-size: 18px;
@@ -25,11 +26,15 @@ h3 {
 h6 {
   font-size: 14px;
 }
-# middle {
+.middle {
   font-size: 32px;
   font-weight: bold;
+  background-image: url("../image/backgroundthe-flatiron-building.png");
+  color: white;
+
 }
-# bottom {
+.bottom {
   background-color: dimgray;
   color: white;
+  text-align: left;
 }
